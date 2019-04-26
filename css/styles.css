@@ -4,13 +4,8 @@ body {
 .container {
   background-color: #fff;
   min-height: 31.25rem;
-  margin-top: 1.875rem;
-  /*max-width: 1080px;*/
-  /*border: 1px solid blue;*/ }
+  margin-top: 1.875rem; }
 
-/*#title {
-  border: 1px solid red;
-}*/
 h1 {
   color: #1b95e0; }
 
@@ -28,11 +23,5 @@ h1 {
 
 #quote-generator:hover {
   background-color: #0c7abf; }
-
-/*#twitter-btn {
-  padding-top: 0.625rem;
-  height: 100%;
-  border: 0.3125rem solid green;
-}*/
 
 /*# sourceMappingURL=styles.css.map */
