@@ -1,0 +1,38 @@
+body {
+  background-color: #1b95e0; }
+
+.container {
+  background-color: #fff;
+  min-height: 31.25rem;
+  margin-top: 1.875rem;
+  /*max-width: 1080px;*/
+  /*border: 1px solid blue;*/ }
+
+/*#title {
+  border: 1px solid red;
+}*/
+h1 {
+  color: #1b95e0; }
+
+#quote-box {
+  border: 0.1875rem dotted #1b95e0;
+  border-radius: 5px;
+  height: 18.75rem;
+  margin-bottom: 0.625rem;
+  padding: 0.625rem; }
+
+#quote-generator {
+  background-color: #1b95e0;
+  font-size: 0.8125rem;
+  margin-bottom: 0.3125rem; }
+
+#quote-generator:hover {
+  background-color: #0c7abf; }
+
+/*#twitter-btn {
+  padding-top: 0.625rem;
+  height: 100%;
+  border: 0.3125rem solid green;
+}*/
+
+/*# sourceMappingURL=styles.css.map */
