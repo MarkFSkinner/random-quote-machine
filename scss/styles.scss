@@ -9,9 +9,12 @@ body {
 }
 
 .container {
-  //background-color: #fff;
   min-height: 31.25rem;
   margin-top: 1.875rem;
+}
+
+#title {
+  margin-top: 2rem;
 }
 
 h1 {
@@ -19,24 +22,16 @@ h1 {
 }
 
 #quote-box {
-  background-color: #fff;
+  background-color: hsl(0, 0%, 95%);
   color: $primary-color;
-  //border: 0.1875rem dotted #1b95e0;
-  //border-radius: 5px;
-  height: 18.75rem;
-  margin-bottom: 0.625rem;
-  padding: 0.625rem;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  padding: 2.25rem;
 }
 
-/*#quote-generator {
-  background-color: #1b95e0;
-  font-size: 0.8125rem;
-  margin-bottom: 0.3125rem;
+#button-container {
+  margin-top: 2rem;
 }
-
-#quote-generator:hover {
-  background-color: #0c7abf;
-}*/
 
 .btn-custom {
   border-radius: 0rem;
