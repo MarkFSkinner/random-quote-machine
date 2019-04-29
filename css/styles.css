@@ -1,27 +1,35 @@
 body {
-  background-color: #1b95e0; }
+  background-color: #078898;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif; }
 
 .container {
-  background-color: #fff;
   min-height: 31.25rem;
   margin-top: 1.875rem; }
 
 h1 {
-  color: #1b95e0; }
+  color: #f2f2f2; }
 
 #quote-box {
-  border: 0.1875rem dotted #1b95e0;
-  border-radius: 5px;
+  background-color: #fff;
+  color: #078898;
   height: 18.75rem;
   margin-bottom: 0.625rem;
   padding: 0.625rem; }
 
-#quote-generator {
+/*#quote-generator {
   background-color: #1b95e0;
   font-size: 0.8125rem;
-  margin-bottom: 0.3125rem; }
+  margin-bottom: 0.3125rem;
+}
 
 #quote-generator:hover {
-  background-color: #0c7abf; }
+  background-color: #0c7abf;
+}*/
+.btn-custom {
+  border-radius: 0rem;
+  background-color: #E37222;
+  color: #fff;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  cursor: pointer; }
 
 /*# sourceMappingURL=styles.css.map */
